@@ -1,0 +1,30 @@
+
+7
+java:S1220""Move this file to a named package.8ï”™¬˜1
+\
+java:S2479":Remove the non-escaped \u0009 character from this literal.(ìØçŒıÿÿÿÿ8ƒ•™¬˜1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(²‰‡I8‰•™¬˜1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µÊÙ¼ıÿÿÿÿ8Š•™¬˜1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¯‰—ä8§ÎŸ¬˜1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¬ëÂà8¨ÎŸ¬˜1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÄôÆ8üË¡¬˜1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¦…·¤8®£¢¬˜1
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(¶Éò§øÿÿÿÿ8ãÄ£¬˜1
+T	java:S106!"9Replace this use of System.out or System.err by a logger.(ãáÅF8ŞÁ¦¬˜1
+U	java:S106""9Replace this use of System.out or System.err by a logger.(ïÀ «8©è³¬˜1
+Z
+java:S5860"8Directly use 'studentGrade' instead of its group number.(µÊÙ¼ıÿÿÿÿ8øÙÌ¬˜1
+U
+java:S5860"8Directly use 'birthdateDay' instead of its group number.(¯‰—ä8øÙÌ¬˜1
+W
+java:S5860":Directly use 'birthdateMonth' instead of its group number.(¬ëÂà8²Î¬˜1
+U
+java:S5860"9Directly use 'birthdateYear' instead of its group number.(ÄôÆ8²Î¬˜1
+O
+java:S5860"2Directly use 'gender' instead of its group number.(¦…·¤8€ÒÎ¬˜1
+U
+java:S5860 "3Directly use 'stateId' instead of its group number.(¶Éò§øÿÿÿÿ8é‹Ï¬˜1
+T
+java:S5860!"8Directly use 'CgpaWeighted' instead of its group number.(ãáÅF8óÏĞ¬˜1
+W
+java:S5860"":Directly use 'CgpaUnweighted' instead of its group number.(ïÀ «8‰«Ñ¬˜1
